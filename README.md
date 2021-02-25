@@ -4,8 +4,8 @@
 I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, web development, and open-source software.
 
 ## Currently hacking on:
-- HTML/CSS/JS (visible on [my website](https://nove.dev)
-- Phaser.js (visible on the [phaser section of my website](https://nove.dev/phaser)
+- HTML/CSS/JS (visible on [my website](https://nove.dev))
+- Phaser.js (visible on the [phaser section of my website](https://nove.dev/phaser))
 
 ## Currently learning:
 - Data structures and algorithms in Java (university class, private code for academic honesty reasons)
