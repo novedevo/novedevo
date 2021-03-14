@@ -4,6 +4,7 @@
 I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, web development, and open-source software.
 
 ## Currently hacking on:
+- Rust! I love the language, although I've just started learning it. Working on a WASM project, soon to be on my website.
 - HTML/CSS/JS (visible on [my website](https://nove.dev))
 - Phaser.js (visible on the [phaser section of my website](https://nove.dev/phaser))
 
