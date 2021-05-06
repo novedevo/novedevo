@@ -4,7 +4,7 @@
 I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, Rust, and web development.
 
 ## Currently hacking on:
-- Rust! I love the language, although I'm still a bit of a zoea, so my carcinization is incomplete. Working on a WASM project, soon to be on my website.
+- Rust! I love the language, although I'm still a bit of a zoea, so my carcinization is incomplete. Working on a [WASM project](https://github.com/novedevo/lose_at_hangman_rs), soon to be on my website.
 - HTML/CSS/JS (visible on [my website](https://nove.dev))
 - Python (Jupyter) [notebook](https://github.com/novedevo/vaccine-predictor) using numpy, matplotlib, etc to forecast the vaccination timeline.
 
