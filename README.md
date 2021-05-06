@@ -19,6 +19,8 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 - C++
 - MATLAB
 - VHDL
+- Adobe InDesign
+- ...and more!
 
 ## Links
 Feel free to explore my public repositories and see some of my projects!
