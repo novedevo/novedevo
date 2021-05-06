@@ -1,17 +1,18 @@
 # Hi! I'm Devon.
 
 ## About Me
-I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, web development, and open-source software.
+I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, Rust, and web development.
 
 ## Currently hacking on:
 - Rust! I love the language, although I've just started learning it. Working on a WASM project, soon to be on my website.
 - HTML/CSS/JS (visible on [my website](https://nove.dev))
-- Phaser.js (visible on the [phaser section of my website](https://nove.dev/phaser))
+- Python (Jupyter) notebook using numpy, matplotlib, etc to forecast the vaccination timeline.
 
 ## Currently learning:
-- Data structures and algorithms in Java (university class, private code for academic honesty reasons)
+- Functional programming (interested in working with Haskell)
+- Rust
 - Python (always)
-- React.js (in progress)
+- React.js
 
 ## Prior experience in
 - C++
