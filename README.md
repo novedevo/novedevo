@@ -6,7 +6,7 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 ## Currently hacking on:
 - Rust! I love the language, although I've just started learning it. Working on a WASM project, soon to be on my website.
 - HTML/CSS/JS (visible on [my website](https://nove.dev))
-- Python (Jupyter) notebook using numpy, matplotlib, etc to forecast the vaccination timeline.
+- Python (Jupyter) [notebook](https://github.com/novedevo/vaccine-predictor) using numpy, matplotlib, etc to forecast the vaccination timeline.
 
 ## Currently learning:
 - Functional programming (interested in working with Haskell)
