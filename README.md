@@ -15,6 +15,7 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 - React.js
 
 ## Prior experience in
+- Java
 - C++
 - MATLAB
 - VHDL
