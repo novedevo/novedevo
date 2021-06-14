@@ -9,7 +9,7 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 - Python (Jupyter) [notebook](https://github.com/novedevo/vaccine-predictor) using numpy, matplotlib, etc to forecast the vaccination timeline.
 
 ## Currently learning:
-- Functional programming (interested in working with Haskell)
+- Functional programming + category theory + Haskell
 - Rust
 - Python (always)
 - React.js
