@@ -13,7 +13,7 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 - Java ([Rush Hour](https://github.com/novedevo/rush-hour))
 - C++ ([IoT pet feeder](https://github/com/novedevo/ENSC100W-project))
 - MATLAB (Various class projects, locked on professor's request)
-- VHDL ([Tensor core](https://github.com/novedevo/ENSC-252)
+- VHDL ([Tensor core](https://github.com/novedevo/ENSC-252))
 - Adobe InDesign (Various projects)
 - ...and more!
 
