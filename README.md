@@ -3,16 +3,11 @@
 ## About Me
 I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, Rust, and web development.
 
-## Currently hacking on:
-- Rust! I love the language, although I'm still a bit of a zoea. Working on a [RFC-compliant SMTP relay](https://github.com/gennyble/sail) using `tokio` and `trust`, currently in alpha.
-- HTML/CSS/JS (visible on [my website](https://nove.dev))
-- Python (Jupyter) [notebook](https://github.com/novedevo/vaccine-predictor) using numpy, matplotlib, etc. to forecast the vaccination timeline.
-
 ## Currently learning:
 - Functional programming + category theory + Haskell
-- Rust
-- Python (always)
-- React.js
+- Rust (RFC-compliant [SMTP relay](https://github.com/gennyble/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
+- Python (Vaccination tracking and prediction in this [notebook](https://github.com/novedevo/vaccine-predictor); simple [Discord bot](https://github.com/novedevo/starboard))
+- Web development (visible on [my website](https://nove.dev))
 
 ## Prior experience in
 - Java
@@ -24,7 +19,6 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 
 ## Links
 Feel free to explore my public repositories and see some of my projects!
-You might like my [Discord bot](https://github.com/novedevo/starboard), my [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), or my [raytracer](https://github.com/novedevo/raytracer)
 While you're here, you can visit [my website](https://nove.dev), follow my [Twitter account](https://twitter.com/novedevo),
 or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/). I use any pronouns. 🏳️‍🌈
 
