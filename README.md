@@ -4,10 +4,11 @@
 I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, Rust, and web development.
 
 ## Currently learning:
-- Functional programming + category theory + Haskell
 - Rust (RFC-compliant [SMTP relay](https://github.com/gennyble/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
 - Python (Vaccination tracking and prediction in this [notebook](https://github.com/novedevo/vaccine-predictor); simple [Discord bot](https://github.com/novedevo/starboard))
 - Web development (visible on [my website](https://nove.dev))
+- Functional programming + category theory + Haskell
+- NodeJS; working on a REST server
 
 ## Prior experience in
 - Java ([Rush Hour](https://github.com/novedevo/rush-hour))
