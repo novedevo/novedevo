@@ -6,11 +6,11 @@ I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Py
 ## Currently learning:
 - Rust (RFC-compliant [SMTP relay](https://github.com/gennyble/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
 - Python (Aquifer tracking and visualization in this [notebook](https://github.com/novedevo/watertable); simple [Discord bot](https://github.com/novedevo/starboard))
-- Web development (visible on [my website](https://nove.dev))
-- Functional programming + category theory + Haskell
-- NodeJS; working on a REST server
 
 ## Prior experience in
+- NodeJS
+- Kubernetes
+- Web development (visible on [my website](https://nove.dev))
 - Java ([Rush Hour](https://github.com/novedevo/rush-hour))
 - C++ ([IoT pet feeder](https://github/com/novedevo/ENSC100W-project))
 - MATLAB (Various class projects, locked on professor's request)
