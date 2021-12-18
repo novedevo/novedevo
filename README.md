@@ -1,7 +1,7 @@
 # Hi! I'm Devon.
 
 ## About Me
-I'm a mostly self-taught 2nd year computer engineering student at SFU. I love Python, Rust, and web development. I'm currently working as a junior software developer managing Google Cloud.
+I'm a mostly self-taught 3rd year computer engineering student at SFU. I love Python, Rust, and web development. I'm currently working as a junior software developer managing Google Cloud.
 
 ## Currently learning:
 - Rust (RFC-compliant [SMTP relay](https://github.com/gennyble/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
