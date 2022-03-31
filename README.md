@@ -11,10 +11,7 @@ I'm a mostly self-taught 3rd year computer engineering student at SFU. I love Py
 ## Additional technologies
 - Kubernetes (professionally)
 - Web development (professionally, also visible on [my website](https://nove.dev))
-- Java ([Rush Hour](https://github.com/novedevo/rush-hour))
-- C++ ([IoT pet feeder](https://github/com/novedevo/ENSC100W-project))
-- MATLAB (Various class projects, locked on professor's request)
-- VHDL ([Tensor core](https://github.com/novedevo/ENSC-252))
+- Java, C++, MATLAB, VHDL
 - Adobe InDesign (Various projects)
 - ...and more!
 
