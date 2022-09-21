@@ -9,7 +9,7 @@ I'm a mostly self-taught 3rd year computer science student at SFU. I love Python
 - Node, React, JS, TS (work)
 
 ## Additional technologies
-- Kubernetes (work)
+- Kubernetes & other DevOps such as CircleCI (work)
 - Web development (work, also visible on [my website](https://nove.dev))
 - Java, C++, MATLAB, VHDL
 - Adobe InDesign (Various projects)
