@@ -4,7 +4,7 @@
 I'm a mostly self-taught 3rd year computer science student at SFU. I love Python, Rust, and JavaScript. I'm currently working as a contract software developer writing Rust and Node applications in a Google Cloud + Kubernetes environment.
 
 ## Highlights:
-- Rust (work, RFC-compliant [SMTP relay](https://github.com/gennyble/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
+- Rust (work, RFC-compliant [SMTP relay](https://github.com/mademast/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
 - Python (work, also aquifer tracking in this [notebook and website](https://github.com/novedevo/watertable))
 - Node, React, JS, TS (work)
 
