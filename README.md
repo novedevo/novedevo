@@ -17,5 +17,5 @@ I'm a mostly self-taught 3rd year computer science student at SFU. I love Python
 
 ## Links
 Feel free to explore my public repositories and see some of my projects!
-While you're here, you can visit [my website](https://nove.dev), follow my [Twitter account](https://twitter.com/novedevo),
+While you're here, you can visit [my website](https://nove.dev)
 or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/). I use they/them pronouns. 🏳️‍🌈
