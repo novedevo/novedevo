@@ -1,7 +1,7 @@
 # Hi! I'm Devon.
 
 ## About Me
-I'm a mostly self-taught 4th year computer science student at SFU. I have professional experience in Python, Rust, and JavaScript. I'm currently working as a contract software developer writing Rust and Node applications in a Google Cloud + Kubernetes environment.
+I'm a mostly self-taught 4th year computer science student at SFU. I have professional experience in Python, Rust, and JavaScript. I'm currently working as a software developer writing asynchronous Rust and Node applications in a Google Cloud + Kubernetes environment.
 
 ## Highlights:
 - Rust (RFC-compliant [SMTP relay](https://github.com/mademast/sail); snarkily overconfident [hangman AI](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
