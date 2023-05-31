@@ -18,4 +18,4 @@ I'm a mostly self-taught 4th year computer science student at SFU. I have profes
 ## Links
 Feel free to explore my public repositories and see some of my projects!
 While you're here, you can visit [my website](https://nove.dev)
-or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/). I use they/them pronouns. 🏳️‍🌈
+or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/).
