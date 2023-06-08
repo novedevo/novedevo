@@ -9,7 +9,7 @@ I'm a mostly self-taught 4th year computer science student at SFU. I have profes
 - Node, React, JS, TS (work)
 
 ## Additional technologies
-- DevOps: Google Kubernetes engine, CircleCI deployments
+- DevOps: Google Kubernetes engine, CircleCI deployments, CloudFlare (Pages, Workers, DNS, KV)
 - Web development (Node and React professionally, also visible on [my website](https://nove.dev))
 - Competent in Haskell, Java, C, C++, x86_64 assembly, VHDL, and MATLAB
 - Familiar with Adobe Creative Cloud: InDesign, Audition, Premiere Pro
