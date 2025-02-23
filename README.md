@@ -28,9 +28,3 @@ I've been writing software for love and/or money since my first Minecraft mod in
 - Competent (min. one university course) in Haskell, C, C++, x86_64 ASM (AT&T syntax), VHDL, and MATLAB.
   - Most of these courses I have in repositories here, some are private due to the professors' request.
 - Adobe CC, Office, Agile, etc...
-
-### Links
-While you're here, you can:
-- follow me on [Bluesky](https://bsky.app/profile/nove.dev),
-- visit [my horribly outdated website](https://nove.dev),
-- or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/).
