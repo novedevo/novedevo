@@ -1,21 +1,35 @@
-# Hi! I'm Devon.
+I've been writing software for love and/or money since my first Minecraft mod in 2013. 
 
-## About Me
-I'm an autodidact with a computer science degree. I have professional experience in Rust, Python, and TypeScript. I'm currently working as a software developer writing (asynchronous, adversarial, low-latency, resilient) Rust and Node applications and deploying them to a Google Cloud + Kubernetes environment.
+### Quick language facts:
+- Rust, Python, TypeScript and JavaScript are the languages I have at least a year of professional experience in. They are also the languages I am most skilled in, in that order.  
+- The language I'm actively learning is C#. The next language I want to learn is Go.  
+- The experimental language that has currently piqued my interest is Vine (previously it was Gleam). The language I would most like to know better is Haskell.  
 
-## Highlights:
-- Rust (actually RFC-compliant [SMTP relay](https://github.com/mademast/sail); snarkily overconfident [hangman bot](https://github.com/novedevo/lose_at_hangman_rs), and a [raytraced 3D renderer](https://github.com/novedevo/raytracer))
-- Python (aquifer tracking in this [website](https://github.com/novedevo/watertable))
-- Node, React, JS, TS (work)
+### Quick other facts:
+- The most interesting courses of my degree were on compiler design (Java), multimedia coding (C), functional programming (Haskell), theoretical computer science & computational complexity (`\LaTeX` :) ), and graph theory (also `\LaTeX`).  
+- Usually at work I write backend applications with tight latency, correctness, and performance requirements. My personal projects are varied.
+- I'm currently employed as a software engineer writing and maintaining Node.js applications and a Google Cloud + Kubernetes environment.
+- Besides the above, I've built non-trivial projects in Java and React.js.
+- I've tried LLMs and found their quality of work typically doesn't justify their computational cost or flagrant plagiarism. I still resort to them in desperation sometimes. I would be happy to be proven wrong.
+- I listen to a lot of good experimental electronic music.
+- I produce a little mediocre experimental electronic music.
+- I'm a good copy editor. I usually use the Oxford comma -- can you find the place I intentionally omitted it in this document?
+- I prefer they/them pronouns. I consider myself neurodivergent.
 
-## Additional technologies
-- DevOps: Google Kubernetes Engine, CircleCI, CloudFlare (Pages, Workers, DNS, KV)
-- Web development (Node and React professionally, also visible on [my website](https://nove.dev))
-- Competent in Haskell, Java, C, C++, x86_64 assembly, VHDL, and MATLAB
-- Familiar with Adobe Creative Cloud: InDesign, Audition, Premiere Pro
-- The most interesting courses of my degree were on compiler design, multimedia coding, functional programming, theoretical computer science and computational complexity, and graph theory.
+### Highlighted projects:
+- properly RFC-compliant, albeit barebones [SMTP relay](https://github.com/mademast/sail) (Rust)
+- overconfident [hangman bot](https://github.com/novedevo/lose_at_hangman_rs) (Rust)
+- [raytraced 3D renderer](https://github.com/novedevo/raytracer) (Rust)
+- aquifer tracking [webapp](https://github.com/novedevo/watertable) (Python, HTML/CSS/JS)
 
-## Links
-Feel free to explore my public repositories and see some of my projects!
-While you're here, you can visit [my website](https://nove.dev)
-or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/).
+### Additional technologies
+- DevOps: Google Kubernetes Engine, CircleCI, CloudFlare {Pages, Workers, DNS, KV}
+- Competent (min. one university course) in Haskell, C, C++, x86_64 ASM (AT&T syntax), VHDL, and MATLAB.
+  - Most of these courses I have in repositories here, some are private due to the professors' request.
+- Adobe CC, Office, Agile, etc...
+
+### Links
+While you're here, you can:
+- follow me on [Bluesky](https://bsky.app/profile/nove.dev),
+- visit [my horribly outdated website](https://nove.dev),
+- or connect on [LinkedIn](https://linkedin.com/in/devon-burnham-7602751a5/).
