@@ -1,8 +1,8 @@
 I've been writing software for love and/or money since my first Minecraft mod in 2013. 
 
 ### Quick language facts:
-- Rust, Python, TypeScript, and JavaScript are the languages I have at least a year of professional experience in. They are also the languages I am most skilled in, in that order.  
-- The language I'm actively learning is C#. The next language I want to learn is Go.  
+- Rust, C#, Python, TypeScript, and JavaScript are the languages I have at least a year of professional experience in. They are also the languages I am most skilled in, in that order.  
+- I'd like to learn Go.
 - The experimental language that has currently piqued my interest is Vine (previously it was Gleam). The language I would most like to know better is Haskell.  
 
 ### Quick professionally relevant facts:
@@ -21,4 +21,4 @@ I've been writing software for love and/or money since my first Minecraft mod in
 - DevOps: Google Kubernetes Engine, CircleCI, CloudFlare {Pages, Workers, DNS, KV}
 - Competent (min. one university course) in Haskell, C, C++, x86_64 ASM (AT&T syntax), VHDL, and MATLAB.
   - Most of these courses I have in repositories here, some are private due to the professors' request.
-- Adobe CC, Office, Agile, etc...
+- Adobe CC, Office, Jira, etc...
