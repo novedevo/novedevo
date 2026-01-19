@@ -8,7 +8,7 @@ I've been writing software for love and/or money since my first Minecraft mod in
 ### Quick professionally relevant facts:
 - The most interesting courses of my degree were on compiler design (Java), multimedia coding (C), functional programming (Haskell), theoretical computer science & computational complexity (`\LaTeX` :) ), and graph theory (also `\LaTeX`).  
 - Usually at work I write backend applications with tight latency, correctness, and performance requirements. I encourage my coworkers to adopt static analysis, CI/CD, and proper testing.
-- I'm currently employed as a software engineer writing and maintaining Node.js applications and a Google Cloud + Kubernetes environment.
+- I'm currently employed as a software engineer writing and maintaining C# applications with a core Rust library, connected with Kafka.
 - Besides the above, I've built non-trivial projects in Java and React.js.
 
 ### Highlighted projects:
